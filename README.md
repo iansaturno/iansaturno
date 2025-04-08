@@ -4,7 +4,7 @@
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 - 🌎 From: Mexico 🇲🇽  
-- ⚽ Fun fact: I’m super into sports, especially football  
+- ⚽ Fun fact: I’m super into sports, especially football and volleyball  
 - 💻 Currently learning and exploring with **C#** and **Python**  
 - 📱 Let’s connect on [Instagram](https://instagram.com/ian.chius)
 
