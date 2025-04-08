@@ -22,7 +22,7 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=IanChiuSaturno&show_icons=true&theme=tokyonight" alt="github stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=iansaturno&show_icons=true&theme=tokyonight" alt="github stats"/>
 </p>
 
 ---
